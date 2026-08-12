@@ -2,7 +2,8 @@ ATIVIDADE 1
 What precisely do we mean by software engineering? What distinguishes “software engineering” from “programming” or “computer science”? And why would Google have a unique perspective to add to the corpus of previous software engineering literature written over the past 50 years? The terms “programming” and “software engineering” have been used interchangeably for quite some time in our industry, although each term has a different emphasis and different implications. University students tend to study computer science and get jobs writing code as “programmers.” “Software engineering,” however, sounds more serious, as if it implies the application of some theoretical knowledge to build something real and precise. Mechanical engineers, civil engineers, aeronautical engineers, and those in other engineering disciplines all practice engineering. They all work in the real world and use the application of their theoretical knowledge to create something real. Software engineers also create “something real,” though it is less tangible than the things other engineers create. Unlike those more established engineering professions, current software engineering theory or practice is not nearly as rigorous. Aeronautical engineers must follow rigid guidelines and practices, because errors in their calculations can cause real damage; programming, on the whole, has traditionally not followed such rigorous practices. But, as software becomes more integrated into our lives, we must adopt and rely on more rigorous engineering methods. We hope this book helps others see a path toward more reliable software practices.
 
 
-COMENTARIO: 
+COMENTARIO: A Engenharia de Software, assim como tudo que está ligado à computação, muitas vezes acaba sendo vista só como programação, e isso vem da ideia de que tudo que envolve código serve apenas para executar tarefas. Porém, a Engenharia de Software vai muito além disso: ela envolve manutenção, planejamento, organização, testes e preocupação com a qualidade. As outras engenharias produzem algo mais “concreto” e, por isso, costumam ter práticas mais rigorosas tanto nos estudos quanto no trabalho. Já a Engenharia de Software também é muito importante, porque muitas indústrias e empresas dependem de sistemas para funcionar, como hospitais, bancos, carros e aviões. Eu acredito que, hoje em dia, não basta saber só programar. O engenheiro precisa ter ética e pensar na segurança, na qualidade e na manutenção do código com o qual está trabalhando.
+
 
 
 ATIVIDADE 2
@@ -16,11 +17,30 @@ Trade-offs and Costs: How an organization makes decisions, based on the lessons 
 
 
 
-COMENTARIO:
-
-
+COMENTARIO: Na Engenharia de Software, é preciso sempre pensar no futuro e em como o código que está sendo produzido vai durar ao longo do tempo, além de pensar em quando ele vai precisar de manutenção. Um software vai precisar de atualizações, porque a tecnologia está ficando cada vez mais avançada e, a todo momento, surgem coisas novas e melhores que podem ser aplicadas em um sistema. As indústrias muitas vezes podem crescer, e os softwares precisam acompanhar esse crescimento. Por esse motivo, o engenheiro precisa analisar a qualidade, a necessidade e o custo. Programar exige que você pense além do presente e crie um software que continue funcionando e que possa ser modificado no futuro.
 
 
 ATIVIDADE 3 
 cite e explique 3 exemplos de tradeoffs em software
+
+Desempenho e complexidade de software:
+Às vezes, o programador quer deixar o software mais rápido, e isso pode exigir técnicas mais complexas. O problema é que o código pode ficar muito complexo e difícil de entender, corrigir ou modificar depois. Então, é necessário encontrar um equilíbrio para que o código seja rápido e, ao mesmo tempo, simples de manter.
+
+Tempo de desenvolvimento e qualidade:
+Se uma empresa tiver pressa para lançar um aplicativo, ela terá que diminuir o tempo de desenvolvimento, e isso pode fazer com que alguns erros passem despercebidos. Quanto mais tempo for gasto testando o software, melhor ele pode ficar, mas é necessário encontrar um equilíbrio para que a entrega não demore muito.
+
+Segurança e facilidade de uso:
+É importante encontrar um equilíbrio entre proteger o usuário e facilitar o uso. Quanto mais etapas de segurança houver, mais demorado e menos prático pode ser o acesso ao site ou aplicativo. Por isso, é importante que o desenvolvedor pense tanto na segurança quanto na facilidade que o cliente precisa.
+
+
+
+
+
+
+
+
+
+
+
+
 
