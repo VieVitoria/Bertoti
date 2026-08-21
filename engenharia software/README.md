@@ -35,7 +35,9 @@ Se uma empresa tiver pressa para lançar um aplicativo, ela terá que diminuir o
 Segurança e facilidade de uso:
 É importante encontrar um equilíbrio entre proteger o usuário e facilitar o uso. Quanto mais etapas de segurança houver, mais demorado e menos prático pode ser o acesso ao site ou aplicativo. Por isso, é importante que o desenvolvedor pense tanto na segurança quanto na facilidade que o cliente precisa.
 
+ATIVIDADE  4 
 
+escolher no github de exemplos do Ollama4j outro exemplo além daquele dado em aula e implementar e colocar no repo "bertoti"
 
 
 
